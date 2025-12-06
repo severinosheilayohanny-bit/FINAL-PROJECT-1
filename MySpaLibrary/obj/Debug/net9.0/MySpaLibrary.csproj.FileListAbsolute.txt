@@ -1,0 +1,13 @@
+C:\Users\sever\Desktop\UNIVERSIDAD TASK\PROGRAMACION I\ITLA-tasks\FINAL PROJECT #1\MySpaLibrary\bin\Debug\net9.0\MySpaLibrary.deps.json
+C:\Users\sever\Desktop\UNIVERSIDAD TASK\PROGRAMACION I\ITLA-tasks\FINAL PROJECT #1\MySpaLibrary\bin\Debug\net9.0\MySpaLibrary.dll
+C:\Users\sever\Desktop\UNIVERSIDAD TASK\PROGRAMACION I\ITLA-tasks\FINAL PROJECT #1\MySpaLibrary\bin\Debug\net9.0\MySpaLibrary.pdb
+C:\Users\sever\Desktop\UNIVERSIDAD TASK\PROGRAMACION I\ITLA-tasks\FINAL PROJECT #1\MySpaLibrary\obj\Debug\net9.0\MySpaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sever\Desktop\UNIVERSIDAD TASK\PROGRAMACION I\ITLA-tasks\FINAL PROJECT #1\MySpaLibrary\obj\Debug\net9.0\MySpaLibrary.AssemblyInfoInputs.cache
+C:\Users\sever\Desktop\UNIVERSIDAD TASK\PROGRAMACION I\ITLA-tasks\FINAL PROJECT #1\MySpaLibrary\obj\Debug\net9.0\MySpaLibrary.AssemblyInfo.cs
+C:\Users\sever\Desktop\UNIVERSIDAD TASK\PROGRAMACION I\ITLA-tasks\FINAL PROJECT #1\MySpaLibrary\obj\Debug\net9.0\MySpaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sever\Desktop\UNIVERSIDAD TASK\PROGRAMACION I\ITLA-tasks\FINAL PROJECT #1\MySpaLibrary\obj\Debug\net9.0\MySpaLibrary.sourcelink.json
+C:\Users\sever\Desktop\UNIVERSIDAD TASK\PROGRAMACION I\ITLA-tasks\FINAL PROJECT #1\MySpaLibrary\obj\Debug\net9.0\MySpaLibrary.dll
+C:\Users\sever\Desktop\UNIVERSIDAD TASK\PROGRAMACION I\ITLA-tasks\FINAL PROJECT #1\MySpaLibrary\obj\Debug\net9.0\refint\MySpaLibrary.dll
+C:\Users\sever\Desktop\UNIVERSIDAD TASK\PROGRAMACION I\ITLA-tasks\FINAL PROJECT #1\MySpaLibrary\obj\Debug\net9.0\MySpaLibrary.pdb
+C:\Users\sever\Desktop\UNIVERSIDAD TASK\PROGRAMACION I\ITLA-tasks\FINAL PROJECT #1\MySpaLibrary\obj\Debug\net9.0\ref\MySpaLibrary.dll
+C:\Users\sever\Desktop\UNIVERSIDAD TASK\PROGRAMACION I\ITLA-tasks\FINAL PROJECT #1\MySpaLibrary\obj\Debug\net9.0\MySpaLibrary.csproj.AssemblyReference.cache
